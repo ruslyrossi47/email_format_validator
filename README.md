@@ -9,7 +9,7 @@ This class is created to help user to remove invalid format for email address fr
 ### Installation
 
 You just need to download the file and upload to your server.
-Than run index.php, you should able to upload your CSV file and this will generate another set of CSV file with valid email format.
+Then run index.php, you should able to upload your CSV file and this will generate another set of CSV file with valid email format.
 
 ### Development
 
